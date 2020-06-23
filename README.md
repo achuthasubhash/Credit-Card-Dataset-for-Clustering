@@ -9,6 +9,8 @@
 
 5.clustering the customers based on Transcration of customer credit card history.
 
+
 ![](elbow graph.JPG)
+
 
 ![](result.JPG)
