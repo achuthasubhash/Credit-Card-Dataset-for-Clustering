@@ -1,7 +1,7 @@
 # Credit-Card-Dataset-for-Clustering
 1.Data from UCI reporistory.
 
-2. Clustering problem (unsupervised problem).
+2.Clustering problem (unsupervised problem).
 
 3.Used PCA algorithms for dimensions reduction and variance ratio is 0.65.
 
