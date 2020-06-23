@@ -8,3 +8,7 @@
 4.by elbow method choosing best K to dataset.
 
 5.clustering the customers based on Transcration of customer credit card history.
+
+![](elbow graph.JPG)
+
+![](result.JPG)
